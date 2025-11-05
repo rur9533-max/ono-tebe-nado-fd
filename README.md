@@ -1,0 +1,1 @@
+git@github.com:rur9533-max/ono-tebe-nado-fd.git
